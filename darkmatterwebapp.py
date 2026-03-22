@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
+altair==4.2.2
 #-----------------------------------------------------------------------------------------------------------
 #user defined functions
 def createdata(file):
